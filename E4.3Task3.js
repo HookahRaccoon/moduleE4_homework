@@ -1,0 +1,1 @@
+const task3 = Object.create(null)
